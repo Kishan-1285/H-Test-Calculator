@@ -90,7 +90,7 @@ def main():
         """)
 
         st.markdown("### 👥 Team Members")
-        team_members = ["Mustafa A", "Karthik Saran", "Kishaan","Naveen Bharathi","Jayanth Kumar","Mithunavanan","Bensingh","Diwakaran"]
+        team_members = ["Mustafa A", "Karthik Saran", "Kishan","Nabeen Bharathi","Jayanth Kumar","Mithunavanan","Bensingh","Diwakaran"]
         for member in team_members:
             st.markdown(f"- {member}")
 
